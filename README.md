@@ -29,5 +29,5 @@ We use the Bellman equation to find the optimal 'q' value
 We use the ε-Greedy algorithm to determine whether the 'Agent' would Explore the environment or Exploit the past information of the environment, gathered overtime. We then we Exponential Decay to reduce the Exploration rate so that at some later timestep, the 'Agent' would select to Exploit rather than Exploring the Environment.
 
 ![ExponentialDecay](https://wikimedia.org/api/rest_v1/media/math/render/svg/fdacadb747bac9932ffd02ee35cf3cbd0bc0b4c8)
-
+ 
 ![Edecay](/pic/3.png) 
