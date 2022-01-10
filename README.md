@@ -1,4 +1,7 @@
 # FrozenLake played by "Reinforcement 'Q' Learning" Agent
+
+![FrozenLake](https://cdna.artstation.com/p/assets/images/images/024/892/266/medium/ofg-cgi-frozen-lake.jpg?1583871228)
+
 A simple program where the 'Agent' plays the Frozen Lake game environment. The 'Agent' tries to maximize it's rewards using Q Learning.
 
 
