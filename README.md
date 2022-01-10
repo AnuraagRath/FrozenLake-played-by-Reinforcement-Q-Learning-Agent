@@ -30,7 +30,7 @@ We use the ε-Greedy algorithm to determine whether the 'Agent' would Explore th
 
 ![ExponentialDecay](/pic/n.png)
  
-![Edecay](/pic/.png) 
+![Edecay](/pic/3.png) 
 
 
   
